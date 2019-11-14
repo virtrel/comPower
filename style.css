@@ -1,0 +1,19 @@
+body {
+    overflow: hidden;
+}
+
+div.standard {
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 15px;
+}
+
+div.button {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+
+div.console {
+    height: 250px;
+}
