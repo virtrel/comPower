@@ -1,2 +1,2 @@
 # comPower
- Application to controll a power supply via serial port
+ Application to control a power supply via serial port
