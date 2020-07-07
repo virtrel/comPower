@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/virtrel/comPower#readme",
   "devDependencies": {
-    "electron": "^7.1.1"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "bootstrap": "^4.3.1",
